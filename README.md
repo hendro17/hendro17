@@ -33,7 +33,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hendro17&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hendro17&theme=kanagawa-paper)](https://git.io/streak-stats)
 </div>
 
 ###
